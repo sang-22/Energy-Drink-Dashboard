@@ -1,6 +1,24 @@
 # Energy-Drink-Dashboard
+Project Description:
+CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
 
-Dashbaord Images:
+Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. Peter Pandey, a marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
+
+Recommendations :
+
+Immediate improvements in the product must be taste improvement, availability of the product in gyms & fitness centers, positive ratings must be improved
+
+Ideal pricing for the product must be between 50 to 100 .
+
+Marketing campaigns like Influencer marketing, Advertising during Sport events, music festivals, Social media advertising attracts more youth towards the product .
+
+Discounts like Buy 1 get 1 free can be implemented or bulk discount can be done.
+
+ To increase  the sales of the product a brand ambassador like a professional athlete, food creator or a collab with an influencer who loves energy drink can be done.
+
+The targeted demographic group is youth ,teenagers as it is claimed that energy drinks improves mood and increase physical endurance .
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------**Dashbaord Images:**
 
 ![energy dashboard 1](https://github.com/sang-22/Energy-Drink-Dashboard/assets/60372274/aa732009-52b6-4513-b324-d8c890a73c83)
 
