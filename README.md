@@ -18,7 +18,7 @@ Discounts like Buy 1 get 1 free can be implemented or bulk discount can be done.
 
 The targeted demographic group is youth ,teenagers as it is claimed that energy drinks improves mood and increase physical endurance .
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------**Dashbaord Images:**
+----------------------------------------------------------------------------------------------------------------------------------------------------------------**Dashbaord Images:**
 
 ![energy dashboard 1](https://github.com/sang-22/Energy-Drink-Dashboard/assets/60372274/aa732009-52b6-4513-b324-d8c890a73c83)
 
